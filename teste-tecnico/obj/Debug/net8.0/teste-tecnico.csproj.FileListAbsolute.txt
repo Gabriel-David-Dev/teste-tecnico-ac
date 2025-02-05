@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Teste-Tecnico-Access\teste-tecnico\teste-tecnico\bin\Debug\net8.0\teste-tecnico.exe
+C:\Users\Gabriel\Desktop\Teste-Tecnico-Access\teste-tecnico\teste-tecnico\bin\Debug\net8.0\teste-tecnico.deps.json
+C:\Users\Gabriel\Desktop\Teste-Tecnico-Access\teste-tecnico\teste-tecnico\bin\Debug\net8.0\teste-tecnico.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Teste-Tecnico-Access\teste-tecnico\teste-tecnico\bin\Debug\net8.0\teste-tecnico.dll
+C:\Users\Gabriel\Desktop\Teste-Tecnico-Access\teste-tecnico\teste-tecnico\bin\Debug\net8.0\teste-tecnico.pdb
+C:\Users\Gabriel\Desktop\Teste-Tecnico-Access\teste-tecnico\teste-tecnico\obj\Debug\net8.0\teste-tecnico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Teste-Tecnico-Access\teste-tecnico\teste-tecnico\obj\Debug\net8.0\teste-tecnico.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Teste-Tecnico-Access\teste-tecnico\teste-tecnico\obj\Debug\net8.0\teste-tecnico.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Teste-Tecnico-Access\teste-tecnico\teste-tecnico\obj\Debug\net8.0\teste-tecnico.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Teste-Tecnico-Access\teste-tecnico\teste-tecnico\obj\Debug\net8.0\teste-tecnico.dll
+C:\Users\Gabriel\Desktop\Teste-Tecnico-Access\teste-tecnico\teste-tecnico\obj\Debug\net8.0\refint\teste-tecnico.dll
+C:\Users\Gabriel\Desktop\Teste-Tecnico-Access\teste-tecnico\teste-tecnico\obj\Debug\net8.0\teste-tecnico.pdb
+C:\Users\Gabriel\Desktop\Teste-Tecnico-Access\teste-tecnico\teste-tecnico\obj\Debug\net8.0\teste-tecnico.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Teste-Tecnico-Access\teste-tecnico\teste-tecnico\obj\Debug\net8.0\ref\teste-tecnico.dll

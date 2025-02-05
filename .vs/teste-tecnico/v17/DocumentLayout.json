@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\Desktop\\Teste-Tecnico-Access\\teste-tecnico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99B2D2A6-40DE-4CA8-8C9A-7C678D3F6A47}|teste-tecnico\\teste-tecnico.csproj|c:\\users\\gabriel\\desktop\\teste-tecnico-access\\teste-tecnico\\teste-tecnico\\views\\consoleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B2D2A6-40DE-4CA8-8C9A-7C678D3F6A47}|teste-tecnico\\teste-tecnico.csproj|solutionrelative:teste-tecnico\\views\\consoleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B2D2A6-40DE-4CA8-8C9A-7C678D3F6A47}|teste-tecnico\\teste-tecnico.csproj|c:\\users\\gabriel\\desktop\\teste-tecnico-access\\teste-tecnico\\teste-tecnico\\controllers\\amostracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B2D2A6-40DE-4CA8-8C9A-7C678D3F6A47}|teste-tecnico\\teste-tecnico.csproj|solutionrelative:teste-tecnico\\controllers\\amostracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B2D2A6-40DE-4CA8-8C9A-7C678D3F6A47}|teste-tecnico\\teste-tecnico.csproj|c:\\users\\gabriel\\desktop\\teste-tecnico-access\\teste-tecnico\\teste-tecnico\\models\\amostramodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B2D2A6-40DE-4CA8-8C9A-7C678D3F6A47}|teste-tecnico\\teste-tecnico.csproj|solutionrelative:teste-tecnico\\models\\amostramodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B2D2A6-40DE-4CA8-8C9A-7C678D3F6A47}|teste-tecnico\\teste-tecnico.csproj|c:\\users\\gabriel\\desktop\\teste-tecnico-access\\teste-tecnico\\teste-tecnico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B2D2A6-40DE-4CA8-8C9A-7C678D3F6A47}|teste-tecnico\\teste-tecnico.csproj|solutionrelative:teste-tecnico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleView.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Teste-Tecnico-Access\\teste-tecnico\\teste-tecnico\\Views\\ConsoleView.cs",
+              "RelativeDocumentMoniker": "teste-tecnico\\Views\\ConsoleView.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Teste-Tecnico-Access\\teste-tecnico\\teste-tecnico\\Views\\ConsoleView.cs",
+              "RelativeToolTip": "teste-tecnico\\Views\\ConsoleView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T16:15:35.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AmostraController.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Teste-Tecnico-Access\\teste-tecnico\\teste-tecnico\\Controllers\\AmostraController.cs",
+              "RelativeDocumentMoniker": "teste-tecnico\\Controllers\\AmostraController.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Teste-Tecnico-Access\\teste-tecnico\\teste-tecnico\\Controllers\\AmostraController.cs",
+              "RelativeToolTip": "teste-tecnico\\Controllers\\AmostraController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T16:14:08.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AmostraModel.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Teste-Tecnico-Access\\teste-tecnico\\teste-tecnico\\Models\\AmostraModel.cs",
+              "RelativeDocumentMoniker": "teste-tecnico\\Models\\AmostraModel.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Teste-Tecnico-Access\\teste-tecnico\\teste-tecnico\\Models\\AmostraModel.cs",
+              "RelativeToolTip": "teste-tecnico\\Models\\AmostraModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T16:12:16.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Teste-Tecnico-Access\\teste-tecnico\\teste-tecnico\\Program.cs",
+              "RelativeDocumentMoniker": "teste-tecnico\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Teste-Tecnico-Access\\teste-tecnico\\teste-tecnico\\Program.cs",
+              "RelativeToolTip": "teste-tecnico\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T16:04:18.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
